@@ -1,10 +1,10 @@
-
+![logo](https://i.imgur.com/06lylRh.gif)
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">A passionate frontend developer learning new technologies</h3>
 
+<img align="right" alt="coding"  src="https://images.wallpapersden.com/image/wxl-ghost-city-ai-art-anime-original_90890.jpg"  />
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orionowo&label=Profile%20views&color=0e75b6&style=flat" alt="orionowo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanabbas10&label=Profile%20views&color=0e75b6&style=flat" alt="hassanabbas10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
