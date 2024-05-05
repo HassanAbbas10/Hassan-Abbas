@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **JavaScript**
+- 👯 I’m looking to collaborate on **JavaScript and React**
 
 - 🤝 I’m looking for help with **Html CSS JS**
 
