@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">A passionate frontend developer learning new technologies</h3>
 
-<a href="https://app.daily.dev/hassanabbas05674"><img src="https://api.daily.dev/devcards/v2/8QUSPkq3vQGxsgLiWvmeM.png?type=wide&r=bk3" width="652" alt="Hassan Abbas's Dev Card"/></a>
+
 
 <img align="right" alt="coding"  src="https://images.wallpapersden.com/image/wxl-ghost-city-ai-art-anime-original_90890.jpg"  />
 
