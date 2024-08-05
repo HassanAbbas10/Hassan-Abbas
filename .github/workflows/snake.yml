@@ -10,6 +10,9 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Snake Animation
       - uses: Sutil/snk@master
         id: snake-gif
@@ -21,6 +24,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.PAT }}
           publish_dir: dist
           publish_branch: output
