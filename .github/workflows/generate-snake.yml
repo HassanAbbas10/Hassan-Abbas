@@ -4,23 +4,35 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
 
 jobs:
-  build:
+  update-snake:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Generate snake animation
+        run: |
+          npm install
+          npm run generate-snake # Replace with your actual command to generate the snake SVGs
+
       - name: Configure Git
         run: |
           git config --local user.name "HassanAbbas10"
           git config --local user.email "hassanabbas05674@gmail.com"
 
-      - name: Update snake animation
+      - name: Commit and push changes
         run: |
-          git add -A
+          git add dist/github-snake-dark.svg dist/github-snake.svg
           git commit -m "Update snake animation" || exit 0
           git push
         env:
