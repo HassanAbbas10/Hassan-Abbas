@@ -20,7 +20,7 @@
 [![](https://visitcount.itsvg.in/api?id=HassanAbbas10&icon=2&color=9)](https://visitcount.itsvg.in)
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Orion0_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan-abbas-b34545263/)
