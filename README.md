@@ -1,6 +1,6 @@
 ![logo](https://i.imgur.com/g3XRP1w.gif)
-![logo](https://i.imgur.com/T60Dt1V.gif)
-![logo](https://i.imgur.com/qNq3MoX.gif)
+![](https://i.imgur.com/T60Dt1V.gif)
+
 
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">A passionate frontend developer learning new technologies</h3>
