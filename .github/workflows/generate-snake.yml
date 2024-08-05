@@ -1,30 +1,27 @@
-name: Generate Snake
+name: Update Snake Animation
 
 on:
-  schedule: # Run at 00:00 UTC every day
-    - cron: "0 0 * * *"
   push:
     branches:
       - main
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout the repository
+      - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - name: Commit and push if there are changes
+
+      - name: Configure Git
         run: |
           git config --local user.name "HassanAbbas10"
           git config --local user.email "hassanabbas05674@gmail.com"
+
+      - name: Update snake animation
+        run: |
           git add -A
           git commit -m "Update snake animation" || exit 0
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
