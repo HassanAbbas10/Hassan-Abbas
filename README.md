@@ -2,6 +2,7 @@
 ![MasterHead](https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277)
 
 
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
 <h3 align="center">A passionate frontend developer learning new technologies</h3>
@@ -12,7 +13,7 @@
 
 
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
 <div align="center">
 # 💫 About Me:
 🔭 I’m currently working on React Projects<br><br>🌱 I’m currently learning React.js(Advanced)<br><br>👯 I’m looking to collaborate on JavaScript and React<br><br>🤝 I’m looking for help with Html CSS JS Tailwind React<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me hassanabbas05674@gmail.com
