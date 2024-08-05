@@ -10,14 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BHassan+Abbas%7D!;I'm+a+ReactJs+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-  
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on React Projects<br><br>🌱 I’m currently learning React.js(Advanced)<br><br>👯 I’m looking to collaborate on JavaScript and React<br><br>🤝 I’m looking for help with Html CSS JS Tailwind React<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me hassanabbas05674@gmail.com
 
