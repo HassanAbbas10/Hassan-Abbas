@@ -1,5 +1,6 @@
-![logo](https://i.imgur.com/g3XRP1w.gif)
-![](https://i.imgur.com/T60Dt1V.gif)
+
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/029/320/295/original/bogdan-mb0sco-coffeeanim.gif?1601147277)
+
 
 
 <h1 align="center">Hi 👋, I'm Hassan Abbas</h1>
@@ -7,6 +8,9 @@
 
 <h2 align="center">Ｓｕｒｖｉｖｎｇ　ｔｈｅ　ｗａｙ　ｏｆ　ｃｈａｏｓ　デ韻シヘ慰</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BHassan+Abbas%7D!;I'm+a+ReactJs+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
+
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on React Projects<br><br>🌱 I’m currently learning React.js(Advanced)<br><br>👯 I’m looking to collaborate on JavaScript and React<br><br>🤝 I’m looking for help with Html CSS JS Tailwind React<br><br>💬 Ask me about JavaScript<br><br>📫 How to reach me hassanabbas05674@gmail.com
 
@@ -31,6 +35,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HassanAbbas10&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
 
 ---
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
