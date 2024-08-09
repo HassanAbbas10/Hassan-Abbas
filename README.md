@@ -7,8 +7,14 @@
 <h3 align="center">A passionate frontend developer learning new technologies</h3>
 
 <h2 align="center">Ｓｕｒｖｉｖｎｇ　ｔｈｅ　ｗａｙ　ｏｆ　ｃｈａｏｓ　デ韻シヘ慰</h2>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BHassan+Abbas%7D!;I'm+a+ReactJs+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd28xNzNuanNkd251M3ZwdnUwOGlsZ3ZrZTF5ZThqbWt3enFkdWhxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUcUG4uc41cWIK4xEL/giphy.webp" alt="Logo" width="500">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=%F0%9F%92%9C+Hi%2C+I'm+%7BHassan+Abbas%7D!;I'm+a+ReactJs+Developer+%F0%9F%94%A5;%F0%9F%8F%96%EF%B8%8F+feel+free+to+explorer+my+profile)](https://git.io/typing-svg)
+
+</div>
+
 
 
 
